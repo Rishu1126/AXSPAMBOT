@@ -92,9 +92,9 @@ deadxspam_msg = f"""
   1) {hl}flirt <count> <username>
   2) {hl}flirt <count> <reply to user>
 
-𝗕𝗶𝗿𝘁𝗵𝗱𝗮𝘆: **ғʟɪʀᴛ ʀᴀɪᴅ ᴏɴ ᴛʜᴇ ᴜsᴇʀ**
-  1) {hl}bday <count> <username>
-  2) {hl}bday <count> <reply to user>
+𝗕𝗶𝗿𝘁𝗵𝗱𝗮𝘆: **ʙᴅᴀʏ ʀᴀɪᴅ ᴏɴ ᴛʜᴇ ᴜsᴇʀ**
+  1) {hl}ᴡɪsʜ <count> <username>
+  2) {hl}ᴡɪsʜ <count> <reply to user>
 
 𝗢𝗻𝗲𝘄𝗼𝗿𝗱𝗚𝗮𝗹𝗶: **ᴏɴᴇ ᴡᴏʀᴅ ɢᴀʟɪ ᴛᴏ ɢᴀɴᴅᴜ ᴜsᴇʀ**
   1) {hl}gali <count> <reply to user>
