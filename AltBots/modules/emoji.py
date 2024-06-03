@@ -14,7 +14,7 @@ from AltBots.data import SAIF
 @X8.on(events.NewMessage(incoming=True, pattern=r"\%semoji(?: |$)(.*)" % hl))
 @X9.on(events.NewMessage(incoming=True, pattern=r"\%semoji(?: |$)(.*)" % hl))
 @X10.on(events.NewMessage(incoming=True, pattern=r"\%semoji(?: |$)(.*)" % hl))
-async def emoji(e):
+async def saif(e):
      if e.sender_id in SUDO_USERS:
         xraid = e.text.split(" ", 2)
 
@@ -37,6 +37,6 @@ async def emoji(e):
                 await e.client.send_message(e.chat_id, caption)
                 await asyncio.sleep(0.1)
         except (IndexError, ValueError, NameError):
-            await e.reply(f"{hl}ᴇᴍᴏᴊɪ <ᴄᴏᴜɴᴛ> <ᴜꜱᴇʀɴᴀᴍᴇ ᴏꜰ ᴜꜱᴇʀ> <ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ>")
+            await e.reply(f"{hl}sᴀɪғ <ᴄᴏᴜɴᴛ> <ᴜꜱᴇʀɴᴀᴍᴇ ᴏꜰ ᴜꜱᴇʀ> <ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ>")
         except Exception as e:
             print(e)
