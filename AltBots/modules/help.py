@@ -15,7 +15,7 @@ HELP_BUTTON = [
       Button.url("𝐎𝚆𝙽𝙴𝚁 ", "https://t.me/Saif_Dictator")
     ],
     [
-      Button.url(" 𝐂ʜᴀɴɴᴇʟ ", "https://t.me/DEAD_GRPCHAT"),
+      Button.url(" 𝐂ʜᴀɴɴᴇʟ ", "https://t.me/BOTSUPPORT_CHAT"),
       Button.url("𝐒ᴜᴘᴘᴏʀᴛ ", "https://t.me/SAIFALLBOT")
     ],
     [ 
@@ -167,16 +167,16 @@ async def helpback(event):
             HELP_STRING,
             buttons=[
               [
-                Button.inline(" 𝗦ᴘᴀᴍ ", data="spam"),
-                Button.inline(" 𝗥ᴀɪᴅ ", data="raid")
+                Button.inline(" 𝐒ᴘᴀᴍ ", data="spam"),
+                Button.inline(" 𝐑ᴀɪᴅ ", data="raid")
               ],
               [
-                Button.inline(" 𝗘xᴛʀᴀ ", data="extra"),
-                Button.url(" 𝗢𝚆𝙽𝙴𝚁 ", "https://t.me/Saif_Dictator")
+                Button.inline(" 𝐄xᴛʀᴀ ", data="extra"),
+                Button.url(" 𝐎𝚆𝙽𝙴𝚁 ", "https://t.me/Saif_Dictator")
               ],
               [          
-                Button.url("𝗖ʜᴀɴɴᴇʟ ", "https://t.me/DEAD_GRPCHAT"),
-                Button.url("𝗦ᴜᴘᴘᴏʀᴛ ", "https://t.me/SAIFALLBOT")
+                Button.url("𝐂ʜᴀɴɴᴇʟ ", "https://t.me/BOTSUPPORT_CHAT"),
+                Button.url("𝐒ᴜᴘᴘᴏʀᴛ ", "https://t.me/SAIFALLBOT")
             ],
             [
                 Button.inline(" 𝐃ᴇᴀᴅ 𝐗 𝐒ᴘᴀᴍ", data="deadxspam")
