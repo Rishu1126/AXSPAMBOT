@@ -5,17 +5,11 @@ from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10
 
 START_BUTTON = [
     [
-        Button.url(" 𝐌ᴜsɪᴄ ", "https://t.me/HINATA_N_BOT"),
-        Button.url("𝐎ᴡɴᴇʀ", "https://t.me/Saif_Dictator")
+        Button.url(" 🅞🅦🅝🅔🅡", "https://t.me/abhi_rss"),
+        Button.url("🅙🅞🅘🅝", "https://t.me/trending_era")
     ],
-    [
-        Button.url(" 𝐂н𝙰𝙽𝙽𝙴𝙻 ", "https://t.me/SAIFALLBOT"),
-        Button.url(" 𝐒𝚄𝙿𝙿𝙾𝚃  ", "https://t.me/BOTSUPPORT_CHAT")
-    ],
-    [
-        Button.url("𝐑ᴇᴘᴏ ", "github.com/SAIFDEAD/AXSPAMBOT"),
+    
       
-    ]
 ]
 
 
