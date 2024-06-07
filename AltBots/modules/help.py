@@ -3,7 +3,7 @@ from telethon import events, Button
 from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, SUDO_USERS, CMD_HNDLR as hl
 
 
-HELP_STRING = f"𝗗𝗘𝗔𝗗 𝗫 𝗦𝗣𝗔𝗠 𝗛𝗘𝗟𝗣 ★\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴅᴇᴠᴇʟᴏᴘᴇʀ 🥀: @SAIF_DICTATOR**"
+HELP_STRING = f"𝙀𝙑𝙄𝙇 𝗫 𝗦𝗣𝗔𝗠 𝗛𝗘𝗟𝗣 ★\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴅᴇᴠᴇʟᴏᴘᴇʀ 🥀: @abhi_rss**"
 
 HELP_BUTTON = [
     [
@@ -12,14 +12,14 @@ HELP_BUTTON = [
     ],
     [
       Button.inline(" 𝐄xᴛʀᴀ ", data="extra"),
-      Button.url("𝐎𝚆𝙽𝙴𝚁 ", "https://t.me/Saif_Dictator")
+      Button.url("𝐎𝚆𝙽𝙴𝚁 ", "https://t.me/abhi_rss")
     ],
     [
       Button.url(" 𝐂ʜᴀɴɴᴇʟ ", "https://t.me/BOTSUPPORT_CHAT"),
-      Button.url("𝐒ᴜᴘᴘᴏʀᴛ ", "https://t.me/SAIFALLBOT")
+      Button.url("𝐒ᴜᴘᴘᴏʀᴛ ", "https://t.me/trending_era")
     ],
     [ 
-      Button.inline(" 𝐃ᴇᴀᴅ 𝐗 𝐒ᴘᴀᴍ", data="deadxspam")
+      Button.inline(" Evil 𝐗 Spam", data="deadxspam")
     ]
   ]
 
